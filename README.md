@@ -5,7 +5,7 @@ The implementation of "Accuracy-Privacy Trade-off in Deep Ensemble Learning"
 * Python 3.5
 * Torch 1.6.0
 
-##How to use:
+## How to use this repository:
 1. After downloading this repository, you need to also download a repository from Bearpaw that implemented model architectures and training:
 ```
 $ git clone --recursive https://github.com/bearpaw/pytorch-classification.git bearpaw
